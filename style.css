@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #5DBEE0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+img {
+  max-width: 30rem;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #fff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
